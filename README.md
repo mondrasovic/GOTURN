@@ -2,5 +2,4 @@
 
 ## References
 
-Download Caffee model files:
-https://github.com/spmallick/goturn-files
+* Download [Caffe model files](https://github.com/spmallick/goturn-files).
